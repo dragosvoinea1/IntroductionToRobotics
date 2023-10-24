@@ -21,6 +21,7 @@ Components used:
   <li>x3 Resistors 330 Ω
   <li>Wires as needed</li>
 </ul>
+
 ### Electronic scheme + image of the project:
 
 ![Electronic scheme](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/c6e1f4ad-d741-48be-b050-e26b4286f1f5)
