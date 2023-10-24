@@ -21,7 +21,7 @@ Components used:
   <li>x3 Resistors 330 Ω
   <li>Wires as needed</li>
 </ul>
-  
+
 ![homework_2](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/c1b04518-b1ce-4769-ae25-8ba3c1627aa1)
 
 
