@@ -5,9 +5,10 @@ Sample projects encompass a range of coursework, such as laboratory assignments 
 ## Homework 1
 (...Github interface...)
 
-## Homework 2
-Use a separate potentiometer for controlling each color of the RGB LED:Red,Green, andBlue.  This control must leveragedigital electronics.  Specifically,you  need  to  read  the  potentiometer’s  value  with  Arduino  and  then  write  amapped value to the LED pins.
-<br>Youtube link: https://www.youtube.com/shorts/YShnfBhUUPg
+<summary>Homework 2</summary> 
+### Task: RGB LED control using 3 potentiometers. This control must leveragedigital electronics
+###
+### Youtube video that shows how it works: https://www.youtube.com/shorts/YShnfBhUUPg
 
 ![homework_2](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/c1b04518-b1ce-4769-ae25-8ba3c1627aa1)
 
