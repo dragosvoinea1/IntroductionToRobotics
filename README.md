@@ -6,7 +6,7 @@ Sample projects encompass a range of coursework, such as laboratory assignments 
 
 
 <details>
-<summary>Homework 1</summary> 
+<summary><h2>Homework 1</h2></summary> 
 ### Task: RGB LED control using 3 potentiometers. This control must leveragedigital electronics
 ###
 ### Youtube video that shows how it works: https://www.youtube.com/shorts/YShnfBhUUPg
