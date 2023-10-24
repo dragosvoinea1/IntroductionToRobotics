@@ -12,7 +12,7 @@ Sample projects encompass a range of coursework, such as laboratory assignments 
 
 ### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_2.ino)
   
-### Youtube video that shows how it works: https://www.youtube.com/shorts/YShnfBhUUPg
+### Youtube video that shows how it works: [watch it here](https://www.youtube.com/shorts/YShnfBhUUPg)
 <br>
 Components used:
 <ul>
