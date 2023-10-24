@@ -5,10 +5,11 @@ Sample projects encompass a range of coursework, such as laboratory assignments 
 ## Homework 1
 (...Github interface...)
 
+<details>
 <summary>Homework 2</summary> 
 ### Task: RGB LED control using 3 potentiometers. This control must leveragedigital electronics
 ###
 ### Youtube video that shows how it works: https://www.youtube.com/shorts/YShnfBhUUPg
 
 ![homework_2](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/c1b04518-b1ce-4769-ae25-8ba3c1627aa1)
-
+</details>
