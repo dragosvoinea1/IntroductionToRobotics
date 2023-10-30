@@ -78,7 +78,9 @@ Components used:
   <li>Wires as needed</li>
 </ul>
 
-### Image of the project:
+### Electronic scheme + image of the project:
+
+![image](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/7ad7751b-0780-4ffb-9635-a7cb928904df)
 
 ![hw_2_photo](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/da6d4427-1614-46a6-a780-5788b8e11121)
 
