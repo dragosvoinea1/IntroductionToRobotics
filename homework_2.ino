@@ -1,3 +1,5 @@
+// I did not manage to reproduce this homework as in the example given in the pdf: it doesn't light up the 2nd led from going from 1 to 3 and vice-versa.
+
 const int floor_PIN[] = {3, 4, 5}; // red LEDs
 const int button_PIN[] = {13, 12, 11};   // buttons
 const int buzzer_PIN = 9;              // buzzer
@@ -10,7 +12,7 @@ int current_floor = 0;   // elevator starts at floor 0
 unsigned long  last_blink = 0; //for debouncing for operational LED
 const unsigned  blink_interval = 500; // operational LED will blink every 0.5 sec during the elevator's movement
 unsigned long  last_time = 0; //for debouncing in loop
-unsigned movement_time = 1500; //duration of the elevator's movement
+unsigned movement_time = 1500; //duration of the elevator's movement per floor
 
 
 void setup() {
