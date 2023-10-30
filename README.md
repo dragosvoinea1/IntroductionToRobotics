@@ -80,7 +80,7 @@ Components used:
 
 ### Electronic scheme + image of the project:
 
-![image](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/7ad7751b-0780-4ffb-9635-a7cb928904df)
+![image](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/4418ba26-eaeb-4240-a905-b1ddcb82f148)
 
 ![hw_2_photo](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/da6d4427-1614-46a6-a780-5788b8e11121)
 
