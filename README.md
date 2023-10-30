@@ -56,7 +56,7 @@ The buzzer should sound briefly during the following scenarios:
     <li>Elevator doors closing and movement.</li>
     </ul>
   </li>
-  <li>State Change & Timers: If the elevator is already at the desired floor, pressing the button for that floor should have no effect.  Otherwise, aftera button press, the elevator should ”wait for the doors to close” and then”move”  to  the  corresponding  floor.   If  the  elevator  is  in  movement,  itshould either do nothing or it should stack its decision (get to the firstprogrammed floor,  open the doors,  wait, close them and then go to thenext desired floor).
+  <li>State Change & Timers: If the elevator is already at the desired floor, pressing the button for that floor should have no effect.  Otherwise, after a button press, the elevator should ”wait for the doors to close” and then ”move”  to  the  corresponding  floor.   If  the  elevator  is  in  movement,  it should either do nothing or it should stack its decision (get to the first programmed floor,  open the doors,  wait, close them and then go to the next desired floor).
   </li>
  <li>
    Debounce: to avoid unintentional repeated button presses.
@@ -68,7 +68,9 @@ The buzzer should sound briefly during the following scenarios:
 ### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_2.ino)
   
 ### Youtube video that shows how it works: [watch it here](https://youtube.com/shorts/Pl9DIoiuy20)
+
 <br>
+
 Components used:
 <ul>
   <li>LEDs (4): 3 for floors, 1 operational LED </li>
