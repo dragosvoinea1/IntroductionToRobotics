@@ -89,3 +89,24 @@ Components used:
 </details>
 
 
+<details>
+<summary> <h2>Homework 3</h2> </summary>
+<br>
+
+### Task: 7 segment display drawing
+
+#### Description for the task: 
+You will use the joystick to control the position of the segment and ”draw” on the display. The movement between segments should be natural, meaning they should jump from the current position only to neighbors, but without passing through ”walls”. The initial position should be on the DP. The current position always blinks (irrespective of the fact that the segment is on or off). Use the joystick to move from one position to neighbors (see table for corresponding movement). Short pressing the button toggles the segment state from ON to OFF or from OFF to ON. Long pressing the button resets the entire display by turning all the segments OFF and moving the current position to the decimal point.
+<br> <br>
+Components used:
+<ul>
+  <li>1x 7-segment display</li>
+  <li>1x joystick (3)</li>
+  <li>x8 Resistors 330 Ω / 220 Ω (for each LED of the 7-segment)</li>
+  <li>Wires as needed</li>
+</ul>
+
+### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_3.ino)
+
+</details>
+
