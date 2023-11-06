@@ -108,5 +108,11 @@ Components used:
 
 ### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_3.ino)
 
+### Youtube video that shows how it works: [watch it here](https://www.youtube.com/shorts/cIUrOn5i0F8)
+
+### Image of the project:
+
+![hw3_img](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/eb2c8017-2870-4e94-8c0d-1ac8beb50413)
+
 </details>
 
