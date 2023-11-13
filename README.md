@@ -116,3 +116,37 @@ Components used:
 
 </details>
 
+
+<details>
+<summary> <h2>Homework 4</h2> </summary>
+<br>
+
+### Task: Create a stopwatch timer with a 4-digit 7-segment display and three buttons. The timer should measure time in tenths of a second and include a lap-saving feature similar to basic stopwatch functions found on most phones.
+<br>
+
+#### Initialize the 4-digit 7-segment display with the starting value "000.0". Assign the following functionalities to the buttons:
+<ul>
+  <li>Button 1: Start/pause.</li>
+  <li>Button 2: Reset (when in pause mode) and reset saved laps (when in lap viewing mode).</li>
+  <li>Button 3: Save lap (when in counting mode) and cycle through the last saved laps (up to 4 laps).</li>
+</ul>
+
+### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_1.ino)
+  
+### Youtube video that shows how it works: [watch it here](https://www.youtube.com/shorts/YShnfBhUUPg)
+
+<br>
+Components used:
+<ul>
+  <li>x1 4 digit 7-segment display</li>
+  <li>3 buttons</li>
+  <li>x8 Resistors 330 Ω or 220 Ω
+  <li>Wires as needed</li>
+</ul>
+
+### Image of the project:
+
+
+
+</details>
+
