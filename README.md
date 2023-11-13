@@ -131,9 +131,9 @@ Components used:
   <li>Button 3: Save lap (when in counting mode) and cycle through the last saved laps (up to 4 laps).</li>
 </ul>
 
-### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_1.ino)
+### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_4.ino)
   
-### Youtube video that shows how it works: [watch it here](https://www.youtube.com/shorts/YShnfBhUUPg)
+### Youtube video that shows how it works: [watch it here](https://www.youtube.com/shorts/TDRnEpl_gec)
 
 <br>
 Components used:
@@ -145,6 +145,8 @@ Components used:
 </ul>
 
 ### Image of the project:
+
+![WhatsApp Image 2023-11-13 at 23 54 48](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/6f3663bf-dba5-40ca-8034-3fdd638af9b5)
 
 
 
