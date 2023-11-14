@@ -50,7 +50,7 @@ byte byteEncodings[encodingsNumber] = {
 
 // Variables for controlling timer and display
 unsigned long lastIncrement = 0;
-unsigned long delayCount = 50;
+unsigned long delayCount = 100;
 unsigned long number = 0;
 
 void setup() {
