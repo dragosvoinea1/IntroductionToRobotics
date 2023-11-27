@@ -152,3 +152,39 @@ Components used:
 
 </details>
 
+<details>
+  
+  <summary> <h2>Homework 5</h2> </summary>
+  
+</details>
+
+
+<details>
+  
+  <summary> <h2>Homework 6</h2> </summary>
+
+  ### Task: Create a simple 8x8 matrix game featuring three distinct elements: a slowly blinking player, fast-blinking bombs/bullets, and stationary walls. The objective is to navigate the player through the matrix, destroying walls. Generate walls randomly, covering 50% to 75% of the matrix. Choose a game style, whether Bomberman or terminator-tanks, or unleash your creativity in designing the gameplay.
+
+  ### My game: Random leds spawn on the matrix and you have to turn them off as fast as possible using the joystick.
+
+  <br>
+Components used:
+<ul>
+  <li>Joystick</li>
+  <li>8x8 LED Matrix</li>
+  <li>MAX7219
+  <li>Resistors and capacitors as needed</li>
+  <li>Breadboard and connecting wires</li>
+</ul>
+
+### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_6.ino)
+  
+### Youtube video that shows how it works: [watch it here](https://youtube.com/shorts/SDmUzrmQGgE?feature=share)
+
+### Image of the project:
+![f7c21c4a-dee2-4627-a31b-e622f73366fc](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/3e1dda84-431f-45f6-8a88-53362518fbb5)
+
+  
+</details>
+
+
