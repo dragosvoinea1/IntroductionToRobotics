@@ -5,7 +5,7 @@ Sample projects encompass a range of coursework, such as laboratory assignments 
 # Homeworks
 
 <details>
-<summary> <h2>Homework 1</h2> </summary>
+<summary> <h2>Homework 2</h2> </summary>
 <br>
 
 ### Task: RGB LED control using 3 potentiometers. This control must leverage digital electronics.
@@ -32,7 +32,7 @@ Components used:
 
 
 <details>
-<summary> <h2>Homework 2</h2> </summary>
+<summary> <h2>Homework 3</h2> </summary>
 <br>
 
 ### Task: Simulating a 3-floor elevator control system using LEDs, buttons, and a buzzer with Arduino.
@@ -90,7 +90,7 @@ Components used:
 
 
 <details>
-<summary> <h2>Homework 3</h2> </summary>
+<summary> <h2>Homework 4</h2> </summary>
 <br>
 
 ### Task: 7 segment display drawing
@@ -118,7 +118,7 @@ Components used:
 
 
 <details>
-<summary> <h2>Homework 4</h2> </summary>
+<summary> <h2>Homework 5</h2> </summary>
 <br>
 
 ### Task: Create a stopwatch timer with a 4-digit 7-segment display and three buttons. The timer should measure time in tenths of a second and include a lap-saving feature similar to basic stopwatch functions found on most phones.
@@ -154,14 +154,14 @@ Components used:
 
 <details>
   
-  <summary> <h2>Homework 5</h2> </summary>
+  <summary> <h2>Homework 6</h2> </summary>
   
 </details>
 
 
 <details>
   
-  <summary> <h2>Homework 6</h2> </summary>
+  <summary> <h2>Homework 7</h2> </summary>
 
   ### Task: Create a simple 8x8 matrix game featuring three distinct elements: a slowly blinking player, fast-blinking bombs/bullets, and stationary walls. The objective is to navigate the player through the matrix, destroying walls. Generate walls randomly, covering 50% to 75% of the matrix. Choose a game style, whether Bomberman or terminator-tanks, or unleash your creativity in designing the gameplay.
 
