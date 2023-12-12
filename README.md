@@ -188,3 +188,34 @@ Components used:
 </details>
 
 
+
+<details>
+  
+  <summary> <h2>Homework 8</h2> </summary>
+
+  ### Task: Create a menu for a matrix game using an LCD.
+
+
+  <br>
+Components used:
+<ul>
+  <li>Joystick</li>
+  <li>LCD</li>
+  <li>MAX7219</li>
+  <li>Resistors and capacitors as needed</li>
+  <li>Breadboard and connecting wires</li>
+</ul>
+
+### Code: [click here](https://github.com/dragosvoinea1/IntroductionToRobotics/blob/main/homework_7.ino)
+  
+### Youtube video that shows how it works: [watch it here](https://youtube.com/shorts/11h7wJnFOms?feature=share)
+
+### Image of the project: ![WhatsApp Image 2023-12-12 at 10 21 27](https://github.com/dragosvoinea1/IntroductionToRobotics/assets/115077134/d21df4f1-e9d1-4b7f-9b5e-f097a0b12117)
+
+
+
+  
+</details>
+
+
+
