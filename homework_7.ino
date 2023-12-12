@@ -58,6 +58,7 @@ String aboutMessage = "Game name: Snake;   Game creator: Voinea Dragos;    Githu
 int scrollPosition = 0;
 unsigned long lastScrollTime = 0;
 const unsigned long scrollInterval = 200; // Adjust this value for the scrolling speed
+const int screen_text = 16;
 
 void setup() {
   Serial.begin(9600);
@@ -179,11 +180,11 @@ void handleAbout() {
     lcd.setCursor(0, 0);
     lcd.print("ABOUT");
 
-    String displayText = aboutMessage.substring(scrollPosition, scrollPosition + 16);
+    String displayText = aboutMessage.substring(scrollPosition, scrollPosition + screen_text);
     lcd.setCursor(0, 1);
     lcd.print(displayText);
 
-    scrollPosition = (scrollPosition + 1) % (aboutMessage.length() + 16);
+    scrollPosition = (scrollPosition + 1) % (aboutMessage.length() + screen_text);
     
     lastScrollTime = millis();
   }
