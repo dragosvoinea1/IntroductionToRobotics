@@ -1,4 +1,4 @@
-//I've used chatgpt and 
+//I've used chatgpt and resources from arduino LCD website
 
 #include <LedControl.h>
 #include <LiquidCrystal.h>
